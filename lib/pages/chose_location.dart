@@ -23,7 +23,7 @@ class _ChoseLocation extends State<ChoseLocation> {
             body: Container(
                 decoration: BoxDecoration(
                     image: DecorationImage(
-                        image: AssetImage('/assets/1.jpg'),
+                        image: AssetImage('assets/1.jpg'),
                         fit: BoxFit.cover
                         ), // DecorationImage
                     ), // BoxDecoration
